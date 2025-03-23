@@ -1,0 +1,23 @@
+{
+  "name": "home-work-15",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/DudnykIv25/Home-work-15#readme",
+  "bugs": {
+    "url": "https://github.com/DudnykIv25/Home-work-15/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DudnykIv25/Home-work-15.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
